@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Indonesiakid-Xmd/Indonesia">
-    <img alt="Indonesia docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="Indonesia docs" height="350" src="https://files.catbox.moe/msck1s.jpg">
   </a>
 </p>
     
