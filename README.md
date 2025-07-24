@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://files.catbox.moe/msck1s.jpg">
+    <img alt="Indonesia kid's" height="350" src="https://files.catbox.moe/msck1s.jpg">
   </a>
 </p>
     
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/CypherX-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/Indonesiaxmd-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
